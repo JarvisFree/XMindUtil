@@ -46,7 +46,8 @@
 
 ## Usage
 
-[XMind图标规范说明](image/图标规范说明.png) （此规范可自定义）
+XMind图标规范说明（此规范可自定义）
+![XMind图标规范说明](image/图标规范说明.png)
 
 ### Generator
 
@@ -58,7 +59,8 @@
 
 ## Example Readmes
 
-[效果展示](image/效果展示.png)
+效果展示
+![效果展示](image/效果展示.png)
 
 ## Related Efforts
 
